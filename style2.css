@@ -1,0 +1,177 @@
+.warna {
+  background-color: gray;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.img-card {
+  width: 13rem;
+  height: 13rem;
+}
+
+.container-card {
+  border-radius: 14px;
+}
+
+.img-card img {
+  width: 13rem;
+  height: 13rem;
+  box-sizing: border-box;
+  object-fit: fill;
+  border-radius: 14px;
+}
+
+#img-modal {
+  max-width: 14rem;
+  width: 100%;
+  height: 100%;
+  object-fit: fit;
+}
+
+#img-contain {
+  width: 14rem;
+  height: 14rem;
+}
+
+.title-card {
+  max-height: 3.5rem;
+}
+
+.btn-harga {
+  width: 100px;
+}
+
+.btn-harga-selected {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+.container-card {
+  width: 13rem;
+}
+
+@media only screen and (max-width: 479px) {
+  .container-card {
+    width: 10rem;
+  }
+
+  .img-card {
+    width: 10rem;
+    height: 10rem;
+  }
+  .img-card img {
+    width: 10rem;
+    height: 10rem;
+  }
+
+  .fs-4 {
+    font-size: 1rem !important;
+  }
+  .nav-link {
+    padding: 10px;
+    font-size: 0.6rem;
+  }
+}
+@media only screen and (max-width: 369px) {
+  .container-card {
+    width: 8rem;
+  }
+
+  .img-card {
+    width: 8rem;
+    height: 8rem;
+  }
+  .img-card img {
+    width: 8rem;
+    height: 8rem;
+  }
+
+  .fs-4 {
+    font-size: 0.7rem !important;
+  }
+}
+
+/* Default modal styling */
+#img-modal {
+  max-width: 14rem;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#img-contain {
+  width: 14rem;
+  height: 14rem;
+}
+
+.td-harga {
+  padding: 1rem;
+}
+
+.btn-harga {
+  width: 100px;
+}
+
+/* For small devices */
+@media only screen and (max-width: 479px) {
+  .modal-dialog {
+    max-width: 90%;
+    margin: 1rem;
+  }
+
+  .modal-content {
+    padding: 1rem;
+  }
+
+  #img-modal {
+    max-width: 10rem;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  #img-contain {
+    width: 10rem;
+    height: 10rem;
+  }
+
+  .td-harga {
+    padding: 0.5rem;
+  }
+
+  .btn-harga {
+    width: 80px;
+    font-size: 0.8rm;
+  }
+}
+
+/* For extra small devices */
+@media only screen and (max-width: 369px) {
+  .modal-dialog {
+    max-width: 95%;
+    margin: 1rem;
+  }
+
+  #img-modal {
+    max-width: 8rem;
+    object-fit: cover;
+  }
+
+  #img-contain {
+    width: 8rem;
+    height: 8rem;
+  }
+
+  .btn-harga {
+    width: 70px;
+    font-size: 0.6rem;
+  }
+
+  .td-harga {
+    padding: 0.3rem;
+  }
+  #harga {
+    width: 70vw;
+  }
+}

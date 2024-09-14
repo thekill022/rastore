@@ -1,0 +1,3441 @@
+[
+    {
+        "kategori" : "Game",
+        "listProduk" : 
+        [
+            {
+                "id" : 1,
+                "imageUrl" : "../Foto Jualan/icon.png",
+                "product" : 
+                    {
+                        "name" : "PUBG MOBILE ALL REGION",
+                        "price" : 
+                        [
+                            {"jumlah" : 180, "harga" : "41.000"},
+                            {"jumlah" : 325, "harga" : "67.000"},
+                            {"jumlah" : 660, "harga" : "136.000"},
+                            {"jumlah" : 720, "harga" : "146.000"},
+                            {"jumlah" : 1045, "harga" : "211.000"},
+                            {"jumlah" : 1320, "harga" : "264.000"},
+                            {"jumlah" : 1800, "harga" : "330.000"},
+                            {"jumlah" : 2520, "harga" : "473.000"},
+                            {"jumlah" : 4175, "harga" : "723.000"},
+                            {"jumlah" : 8100, "harga" : "1.320.000"},
+                            {"jumlah" : 12010, "harga" : "1.981,000"}
+                        ]
+                    }
+            },
+            {
+                "id": 2,
+                "imageUrl": "../Foto Jualan/images.jpeg",
+                "product":
+                    {
+                        "name": "PUBG NEW STATE",
+                        "price": [
+                            {"jumlah": 300, "harga": "16.000"},
+                            {"jumlah": 1580, "harga": "75.000"},
+                            {"jumlah": 3850, "harga": "170.000"},
+                            {"jumlah": 10230, "harga": "427.000"},
+                            {"jumlah": 16800, "harga": "690.000"},
+                            {"jumlah": 35000, "harga": "1.370.000"}
+                        ]
+                    }
+            },
+            {
+                "id": 3,
+                "imageUrl": "../Foto Jualan/icon.png",
+                "product":
+                    {
+                        "name": "PUBG MOBILE INDONESIA",
+                        "price": [
+                            {"jumlah": 60, "harga": "14.000"},
+                            {"jumlah": 325, "harga": "65.000"},
+                            {"jumlah": 565, "harga": "114.000"},
+                            {"jumlah": 660, "harga": "126.000"},
+                            {"jumlah": 985, "harga": "189.000"},
+                            {"jumlah": 1800, "harga": "314.000"},
+                            {"jumlah": 5650, "harga": "936.000"},
+                            {"jumlah": 8100, "harga": "1.250.000"},
+                            {"jumlah": 18000, "harga": "2.810.000"},
+                            {"jumlah": 25020, "harga": "3.875.000"},
+                            {"jumlah": 32400, "harga": "4.983.000"},
+                            {"jumlah": 40500, "harga": "6.235.000"},
+                            {"jumlah": 81000, "harga": "12.460.000"},
+                            {"jumlah": 100320, "harga": "15.600.000"}
+                        ]
+                    }
+            },
+            {
+                "id": 4,
+                "imageUrl": "../Foto Jualan/channels4_profile.jpg",
+                "product":
+                    {
+                        "name": "MOBILE LEGENDS",
+                        "price": [
+                            {"jumlah": "WDP","harga": "27.000"},
+                            {"jumlah": 86,"harga": "23.000"},
+                            {"jumlah": 172,"harga": "44.000"},
+                            {"jumlah": 257,"harga": "65.000"},
+                            {"jumlah": 344,"harga": "87.000"},
+                            {"jumlah": 429,"harga": "108.000"},
+                            {"jumlah": 514,"harga": "130.000"},
+                            {"jumlah": 600,"harga": "151.000"},
+                            {"jumlah": 706,"harga": "173.000"},
+                            {"jumlah": 792,"harga": "194.000"},
+                            {"jumlah": 878,"harga": "216.000"},
+                            {"jumlah": 963,"harga": "237.000"},
+                            {"jumlah": 1050,"harga": "258.000"},
+                            {"jumlah": 1220,"harga": "301.000"},
+                            {"jumlah": 1412,"harga": "343.000"},
+                            {"jumlah": 2195,"harga": "515.000"},
+                            {"jumlah": 2901,"harga": "684.000"},
+                            {"jumlah": 3688,"harga": "856.000"},
+                            {"jumlah": 5532,"harga": "1.282.000"},
+                            {"jumlah": 9288,"harga": "2.150.000"}
+                        ]
+                    }
+            },
+            {
+                "id": 5,
+                "imageUrl": "../Foto Jualan/025525600_1590729106-Banner-1.jpg",
+                "product":
+                    {
+                        "name": "CALL OF DUTY MOBILE",
+                        "price": [
+                            {"jumlah": 31, "harga": "7.000"},
+                            {"jumlah": 63, "harga": "12.000"},
+                            {"jumlah": 128, "harga": "23.000"},
+                            {"jumlah": 321, "harga": "52.000"},
+                            {"jumlah": 800, "harga": "117.000"},
+                            {"jumlah": 1373, "harga": "189.000"},
+                            {"jumlah": 2060, "harga": "290.000"},
+                            {"jumlah": 3564, "harga": "486.000"},
+                            {"jumlah": 5618, "harga": "703.000"},
+                            {"jumlah": 7656, "harga": "963.000"},
+                            {"jumlah": 10560, "harga": "1.850.000"},
+                            {"jumlah": 15312, "harga": "2.014.000"},
+                            {"jumlah": 26400, "harga": "4.717.000"},
+                            {"jumlah": 38280, "harga": "4.778.000"},
+                            {"jumlah": 52800, "harga": "9.380.000"},
+                            {"jumlah": 76560, "harga": "9.950.000"}
+                        ]
+                    }
+            },
+            {
+                "id": 6,
+                "imageUrl": "../Foto Jualan/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc.jpeg",
+                "product":
+                    {
+                        "name": "GENSHIN IMPACT",
+                        "price": [
+                            {"jumlah": 60, "harga": "14.000"},
+                            {"jumlah": "300+30", "harga": "64.000"},
+                            {"jumlah": "980+110", "harga": "180.000"},
+                            {"jumlah": "1980+260", "harga": "389.000"},
+                            {"jumlah": "3280+600", "harga": "594.000"},
+                            {"jumlah": "6480+1600", "harga": "1.190.000"},
+                            {"jumlah": "Blessing of the Welkin Moon", "harga": "60.000"}
+                        ]
+                    }
+            },
+            {
+                "id": 7,
+                "imageUrl": "../Foto Jualan/valorant-logo-FAB2CA0E55-seeklogo.com.png",
+                "product": 
+                    {
+                        "name": "VALORANT",
+                        "price": [
+                            {"jumlah": 357, "harga": "45.000"},
+                            {"jumlah": 650, "harga": "77.000"},
+                            {"jumlah": 1350, "harga": "144.000"},
+                            {"jumlah": 2100, "harga": "209.000"},
+                            {"jumlah": 3600, "harga": "341.000"},
+                            {"jumlah": 7500, "harga": "690.000"},
+                            {"jumlah": 8150, "harga": "764.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 8,
+                "imageUrl": "../Foto Jualan/vecteezy_roblox-logo-png-roblox-icon-transparent-png_27127470.png",
+                "product": 
+                    {
+                        "name": "ROBLOX",
+                        "price": [
+                            {"jumlah": 100, "harga": "58.000"},
+                            {"jumlah": 200, "harga": "85.000"},
+                            {"jumlah": 400, "harga": "147.000"},
+                            {"jumlah": 800, "harga": "159.000"},
+                            {"jumlah": 1200, "harga": "310.000"},
+                            {"jumlah": 1700, "harga": "397.000"},
+                            {"jumlah": 2000, "harga": "398.000"},
+                            {"jumlah": 10000, "harga": "1.561.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 9,
+                "imageUrl": "../Foto Jualan/images (1).jpeg",
+                "product": 
+                    {
+                        "name": "GARENA UNDAWN",
+                        "price": [
+                            {"jumlah": 80, "harga": "17.000"},
+                            {"jumlah": 250, "harga": "48.000"},
+                            {"jumlah": 450, "harga": "75.000"},
+                            {"jumlah": 920, "harga": "145.000"},
+                            {"jumlah": 1850, "harga": "280.000"},
+                            {"jumlah": 2800, "harga": "420.000"},
+                            {"jumlah": 4750, "harga": "699.000"},
+                            {"jumlah": 9600, "harga": "1.402.000"},
+                            {"jumlah": 33000, "harga": "4.619.000"},
+                            {"jumlah": 66500, "harga": "9.232.000"},
+                            {"jumlah": "Kartu Mingguan", "harga": "30.000"},
+                            {"jumlah": "Kartu Bulanan", "harga": "48.000"},
+                            {"jumlah": "Pass Premium", "harga": "140.000"},
+                            {"jumlah": "Growth Fund", "harga": "94.000"},
+                            {"jumlah": "Glory Pass PREM", "harga": "140.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 10,
+                "imageUrl": "../Foto Jualan/Honkai_Star_Rail_logo.png",
+                "product": 
+                    {
+                        "name": "HONKAI STAR RAIL",
+                        "price": [
+                            {"jumlah": 60, "harga": "17.000"},
+                            {"jumlah": "300+30", "harga": "69.000"},
+                            {"jumlah": "980+110", "harga": "180.000"},
+                            {"jumlah": "1280+140", "harga": "242.000"},
+                            {"jumlah": "1960+220", "harga": "379.000"},
+                            {"jumlah": "1980+260", "harga": "384.000"},
+                            {"jumlah": "3280+600", "harga": "600.000"},
+                            {"jumlah": "6480+1600", "harga": "1.200.000"},
+                            {"jumlah": "Express Supply Pass", "harga": "62.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 11,
+                "imageUrl": "../Foto Jualan/034422500_1501647190-new_logo_AOV__1_.jpg",
+                "product": 
+                    {
+                        "name": "ARENA OF VALOR",
+                        "price": [
+                            {"jumlah": 40, "harga": "13.000"},
+                            {"jumlah": 90, "harga": "24.000"},
+                            {"jumlah": 230, "harga": "50.000"},
+                            {"jumlah": 470, "harga": "100.000"},
+                            {"jumlah": 950, "harga": "196.000"},
+                            {"jumlah": 1430, "harga": "289.000"},
+                            {"jumlah": 2390, "harga": "490.000"},
+                            {"jumlah": 4800, "harga": "982.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 12,
+                "imageUrl": "../Foto Jualan/51762ac2a2a1014f9be6f5bcfac029ad.png",
+                "product": 
+                    {
+                        "name": "AU2 MOBILE",
+                        "price": [
+                            {"jumlah": 72, "harga": "17.000"},
+                            {"jumlah": 144, "harga": "33.000"},
+                            {"jumlah": 360, "harga": "84.000"},
+                            {"jumlah": 816, "harga": "151.000"},
+                            {"jumlah": 1536, "harga": "289.000"},
+                            {"jumlah": 2376, "harga": "440.000"},
+                            {"jumlah": 3936, "harga": "700.000"},
+                            {"jumlah": 7776, "harga": "1.428.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 13,
+                "imageUrl": "../Foto Jualan/BLOOD STRIKE.jpg",
+                "product": 
+                    {
+                        "name": "BLOOD STRIKE",
+                        "price": [
+                            {"jumlah": 105, "harga": "18.000"},
+                            {"jumlah": 320, "harga": "46.000"},
+                            {"jumlah": 540, "harga": "74.000"},
+                            {"jumlah": 1100, "harga": "141.000"},
+                            {"jumlah": 2260, "harga": "280.000"},
+                            {"jumlah": 5800, "harga": "690.000"},
+                            {"jumlah": "Strike Pass Elite", "harga": "58.000"},
+                            {"jumlah": "Strike Pass Elit Plus", "harga": "128.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 14,
+                "imageUrl": "../Foto Jualan/HAY DAY.png",
+                "product": 
+                    {
+                        "name": "HAYDAY",
+                        "price": [
+                            {"jumlah": 50, "harga": "31.000"},
+                            {"jumlah": 130, "harga": "68.000"},
+                            {"jumlah": 275, "harga": "132.000"},
+                            {"jumlah": 570, "harga": "262.000"},
+                            {"jumlah": 1500, "harga": "524.000"},
+                            {"jumlah": 4000, "harga": "1.310.000"},
+                            {"jumlah": "Farm Pass", "harga": "68.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 15,
+                "imageUrl": "../Foto Jualan/Pointblanklogo.jpg",
+                "product": 
+                    {
+                        "name": "POINT BLANK",
+                        "price": [
+                            {"jumlah": 1200, "harga": "13.000"},
+                            {"jumlah": 2400, "harga": "24.000"},
+                            {"jumlah": 6000, "harga": "52.000"},
+                            {"jumlah": 12000, "harga": "100.000"},
+                            {"jumlah": 24000, "harga": "190.000"},
+                            {"jumlah": 36000, "harga": "286.000"},
+                            {"jumlah": 60000, "harga": "467.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 16,
+                "imageUrl": "../Foto Jualan/love nikki.png",
+                "product": 
+                    {
+                        "name": "LOVE NIKKI",
+                        "price": [
+                            {"jumlah": 85, "harga": "18.000"},
+                            {"jumlah": 170, "harga": "33.000"},
+                            {"jumlah": 258, "harga": "50.000"},
+                            {"jumlah": 440, "harga": "80.000"},
+                            {"jumlah": 880, "harga": "150.000"},
+                            {"jumlah": 1760, "harga": "297.000"},
+                            {"jumlah": 4500, "harga": "731.000"},
+                            {"jumlah": 6300, "harga": "983.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 17,
+                "imageUrl": "../Foto Jualan/lifeafter.jpg",
+                "product": 
+                    {
+                        "name": "LIFEAFTER",
+                        "price": [
+                            {"jumlah": 65, "harga": "15.000"},
+                            {"jumlah": 330, "harga": "62.000"},
+                            {"jumlah": 558, "harga": "100.000"},
+                            {"jumlah": 1108, "harga": "180.000"},
+                            {"jumlah": 2268, "harga": "407.000"},
+                            {"jumlah": 3468, "harga": "559.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 18,
+                "imageUrl": "../Foto Jualan/sausage man.png",
+                "product": 
+                    {
+                        "name": "SAUSAGE MAN",
+                        "price": [
+                            {"jumlah": 60, "harga": "16.000"},
+                            {"jumlah": 180, "harga": "43.000"},
+                            {"jumlah": 300, "harga": "73.000"},
+                            {"jumlah": 680, "harga": "137.000"},
+                            {"jumlah": 1280, "harga": "270.000"},
+                            {"jumlah": 1980, "harga": "425.000"},
+                            {"jumlah": 3280, "harga": "703.000"},
+                            {"jumlah": 6480, "harga": "1.410.000"}
+                        ]
+                    }
+                
+            },
+            {
+                "id": 19,
+                "imageUrl": "../Foto Jualan/clash of clans.jpeg",
+                "product": 
+                    {
+                        "name": "CLASH OF CLANS",
+                        "price": [
+                            {"jumlah": 80, "harga": "16.000"},
+                            {"jumlah": 500, "harga": "70.000"},
+                            {"jumlah": 1200, "harga": "131.000"},
+                            {"jumlah": 2500, "harga": "256.000"},
+                            {"jumlah": 6500, "harga": "638.000"},
+                            {"jumlah": 14000, "harga": "1.287.000"},
+                            {"jumlah": "Gold Pass", "harga": "96.000"}
+                        ]
+                    }
+                
+            }
+        ]
+    },
+    {
+        "kategori": "Suntik Sosmed",
+        "listProduk": [
+            {
+                "platform": "TIKTOK",
+                "imageUrl": "../Foto Jualan/suntik_boost socmeds/ilustrasi-tiktok_43.jpeg",
+                "services": [
+                  {
+                    "service_name": "FOLLOWERS RANDOM",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 4.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 40.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 4.000 per 100 Followers"
+                      },
+                      {
+                        "type": "GARANSI 30 HARI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 7.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 70.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 7.000 per 100 Followers"
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "LIKES RANDOM",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 1.500"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 15.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 1.500 per 100 Likes"
+                      },
+                      {
+                        "type": "GARANSI 30 HARI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 3.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 30.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 3.000 per 100 Likes"
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "LIKES INDONESIA",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 2.500"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 25.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 2.500 per 100 Likes"
+                      },
+                      {
+                        "type": "GARANSI 30 HARI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 5.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 50.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 5.000 per 100 Likes"
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "SHARES",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 1.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 10.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 1.000 per 100 Shares"
+                      },
+                      {
+                        "type": "GARANSI 30 HARI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 2.500"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 25.000"
+                          }
+                        ],
+                        "berlaku_kelipatan": "Rp. 2.500 per 100 Shares"
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "VIEWS",
+                    "options": [
+                      {
+                        "type": "VIEWS RANDOM",
+                        "packages": [
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 1.500"
+                          },
+                          {
+                            "jumlah": 10000,
+                            "harga": "Rp. 15.000"
+                          },
+                          {
+                            "jumlah": 100000,
+                            "harga": "Rp. 30.000"
+                          },
+                          {
+                            "jumlah": 1000000,
+                            "harga": "Rp. 45.000"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "VIEWS INDONESIA",
+                        "packages": [
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 15.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "COMMENTS",
+                    "options": [
+                      {
+                        "type": "RANDOM EMOJI COMMENTS",
+                        "packages": [
+                          {
+                            "jumlah": 10,
+                            "harga": "Rp. 10.000"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "CUSTOM COMMENTS",
+                        "packages": [
+                          {
+                            "jumlah": 10,
+                            "harga": "Rp. 10.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "SAVES",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 1.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 10.000"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "LIVESTREAM VIEWS",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 15.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 150.000"
+                          }
+                        ],
+                        "notes": "BERTAHAN SECARA RANDOM 15-180 MENIT. UNTUK WAKTU SPESIFIK BISA REQUEST KE ADMIN DENGAN HARGA BERBEDA SESUAI REQUEST"
+                      }
+                    ]
+                  },
+                  {
+                    "service_name": "LIVESTREAM LIKES",
+                    "options": [
+                      {
+                        "type": "NO GARANSI",
+                        "packages": [
+                          {
+                            "jumlah": 100,
+                            "harga": "Rp. 1.000"
+                          },
+                          {
+                            "jumlah": 1000,
+                            "harga": "Rp. 10.000"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+            {
+                "platform": "INSTAGRAM",
+                "imageUrl" :"Foto Jualan/suntik_boost socmeds/vecteezy_instagram-logo-png-instagram-icon-transparent_18930415.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS RANDOM",
+                        "options": [
+                            {
+                                "type": "NO GARANSI",
+                                "packages" :[
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS INDONESIA",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" : "GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "6.000"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "30.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "60.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES RANDOM",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "600"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "6.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES INDONESIA",
+                        "options": [
+                            {   
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "4.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "40.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "COMMENTS",
+                        "options": [
+                            {
+                                "type" : "RANDOM EMOJI COMMENTS",
+                                "packages": [
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" : "CUSTOM COMMENTS",
+                                "packages": [
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "10.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "IGTV VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "600"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "6.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "IGTV LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "REEL VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "600"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "6.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "REEL LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "STORY VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "10.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "STORY IMPRESSIONS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIVESTREAM VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "25.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "HIGHLIGHT VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "15.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "REACH",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "IMPRESSIONS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "SAVES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PROFILE VISITS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 500,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "platform": "YOUTUBE",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/youtube.png" ,
+                "services": [
+                    {
+                        "service_name": "SUBSCRIBERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "8.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "80.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "16.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "160.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIEWS",
+                        "options": [
+                            {
+                                "type" : "VIEWS RANDOM",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" : "INDONESIA UNIQUE REAL & ACTIVE",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "11.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "110.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES RANDOM",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "COMMENTS",
+                        "options": [
+                            {
+                                "type" :"RANDOM EMOJI COMMENTS",
+                                "packages": [
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"CUSTOM COMMENTS",
+                                "packages": [
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "10.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIVESTREAM VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "15.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "150.000"
+                                    }
+                                ],
+                                "note": "Bertahan sekitar 10-30 menit"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIEWS FROM ADS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "SHORT VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "SHORT LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "4.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "40.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "SHARES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "platform": "FACEBOOK",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/vecteezy_facebook-logo-on-transparent-isolated-background_12660856.jpg",
+                "services": [
+                    {
+                        "service_name": "PROFILE FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PAGE FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FRIEND REQUEST",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "6.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "60.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "POST LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "750"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "7.500"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PAGE LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "GROUP MEMBERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "REEL VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "platform": "TWITTER",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/twitter.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" : "NON REFILL",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" : "REFILL 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "6.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "60.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "POLL VOTES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "8.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "80.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "15.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "155.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "WATCH TIME",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" :[
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "9.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "90.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "SPACE LISTENERS",
+                        "options": [
+                            {
+                                "type" : "30 MENIT",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "4.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "45.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"60 MENIT",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "6.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "65.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" :"90 MENIT",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "8.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "85.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" : "NON REFILL",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" : "REFILL 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "RETWEETS",
+                        "options": [
+                            {
+                                "type" : "NON REFILL",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            },
+                            {
+                                "type" : "REFILL 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIDEO VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" :[
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "COMMENTS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" :[
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "20.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "IMPRESSIONS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" : [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "platform": "THREADS",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/threads.jpg",
+                "services": [
+                    {
+                        "service_name": "CUSTOM COMMENTS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "10.000"
+                                    }
+                                ],
+                                "note": "Harga tetap untuk setiap 10 Comments"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "RESHARE",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "100.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.10.000 per 100 Shares"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "type" :"GARANSI 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "100.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" : "NON REFILL",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ],
+                                "type" : "REFILL 30 HARI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "6.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "60.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS INDONESIA",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "12.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "120.000"
+                                    }
+                                ],
+                                "note": "Harga tetap per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "platform": "SHOPEE",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/images.png",
+                "services": [
+                    {
+                        "service_name": "VIDEO VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "20.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.000 per 100 Views"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS INDONESIA",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES PRODUK",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "30.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.000 per 100 Likes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "platform": "TOKOPEDIA",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/tokopedia-logo-5340B636F6-seeklogo.com.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "7.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "70.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.7.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "platform": "LAZADA",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/png-transparent-lazada-logo.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS INDONESIA",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "100.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.10.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "platform": "TELEGRAM",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/telegram.png",
+                "services": [
+                    {
+                        "service_name": "RANDOM COMMENTS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 10,
+                                        "harga": "10.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.10.000 per 10 Comments"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "5.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.500 per 100 Views"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "REACTION EMOTE",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "10.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.000 per 100 Emotes"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PUBLIC CHANNEL MEMBERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Members"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "platform": "SPOTIFY",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/spotify.jpg",
+                "services": [
+                    {
+                        "service_name": "SAVES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.500 per 100 Saves"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "QUALITY FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "USER FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PLAYLIST FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PODCAST/SHOW FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "MONTHLY LISTENERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Listeners"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PODCAST PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Plays"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PREMIUM PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.500 per 100 Plays"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FREE PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.500 per 100 Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "platform": "TWITCH",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/twitch.png",
+                "services": [
+                    {
+                        "service_name": "VIDEO VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "100.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.10.000 per 100 Views"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "CHANNEL VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Views"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.500 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "platform": "WHATSAPP CHANNEL",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/whatsapp channel.jpg",
+                "services": [
+                    {
+                        "service_name": "CHANNEL POST REACTIONS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "15.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "150.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.15.000 per 100 Reactions"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "GLOBAL CHANNEL MEMBERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "20.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "200.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.20.000 per 100 Members"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "platform": "SOUNDCLOUD",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/419678-1x1_SoundCloudLogo_wordmark-341a25-medium-1645807040.jpg",
+                "services": [
+                    {
+                        "service_name": "CUSTOM COMMENTS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.500 per 100 Comments"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "REPOST",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Reposts"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Likes"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "10.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.000 per 100 Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "platform": "LINKEDIN",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/buku48.png",
+                "services": [
+                    {
+                        "service_name": "CONNECTIONS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "36.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "360.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.36.000 per 100 Connections"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "GROUP MEMBERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "52.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "520.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.52.000 per 100 Members"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "ORGANIC FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "47.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "470.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.47.000 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PROFILE/COMPANY FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "36.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "360.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.36.000 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "ORGANIC LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "36.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "360.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.36.000 per 100 Likes"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "POST LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "27.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "270.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.27.000 per 100 Likes"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "42.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "420.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.42.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "platform": "SNACK VIDEO",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/1672386887-Zkg3JnT0APbdIFsbIh9b.jpeg",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "4.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "45.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.4.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Likes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "platform": "PINTEREST",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/Pinterest-logo.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "31.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "310.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.31.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "platform": "KICK.COM",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/KICK.jpg",
+                "services": [
+                    {
+                        "service_name": "LIVE STREAM VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "55.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.500 per 100 Viewers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "16.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "160.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.16.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "platform": "FANSLY",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/fanslycom2782.jpg",
+                "services": [
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "8.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "85.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.8.500 per 100 Likes"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "8.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "85.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.8.500 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "platform": "TUMBLR",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/tumblr.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "11.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "110.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.11.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "platform": "QUORA",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/quora5914.jpg",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "21.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "210.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.21.000 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Views"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "platform": "MIXCLOUD",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/images (1).png",
+                "services": [
+                    {
+                        "service_name": "PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "platform": "SHAZAM",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/images (2).png",
+                "services": [
+                    {
+                        "service_name": "PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "platform": "VK.COM",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/vk.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "4.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "45.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.4.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIDEO VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "10.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.000 per 100 Views"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PROFILE FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "4.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "45.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.4.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "POST/PHOTO LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "2.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "25.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.2.500 per 100 Likes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "platform": "CLUBHOUSE",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/Logo-Baru-Clubhouse.jpg",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "21.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "210.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.21.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "platform": "REDDIT",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/reddit.jpeg",
+                "services": [
+                    {
+                        "service_name": "SUBSCRIBERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Subscribers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PROFILE FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "50.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.5.000 per 100 Followers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "platform": "LIKEE",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/likee-logo-619716825E-seeklogo.com.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "26.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "260.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.26.000 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "11.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "110.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.11.000 per 100 Likes"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "8.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "85.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.8.500 per 100 Views"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "platform": "REVERBNATION",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/Reverbnation_Logo.png",
+                "services": [
+                    {
+                        "service_name": "VIDEO VIEWS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Views"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "platform": "DISCORD",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/discord-logo-icon-editorial-free-vector.jpg",
+                "services": [
+                    {
+                        "service_name": "OFFLINE GLOBAL SERVER MEMBER",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Members"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "MEMBERS ONLINE",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "100.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.10.000 per 100 Members"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "MEMBERS OFFLINE",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "7.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "75.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.7.500 per 100 Members"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "platform": "TIDAL",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/tidal1596.jpg",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "40.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "400.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.40.000 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "PLAYLIST PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "25.000"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "250.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.25.000 per 100 Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "platform": "DRIBBLE",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/dribble.png",
+                "services": [
+                    {
+                        "service_name": "FOLLOWERS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Followers"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "LIKES",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 Likes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "platform": "AUDIOMACK",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/Audiomack.png",
+                "services": [
+                    {
+                        "service_name": "USA PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "3.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "35.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.3.500 per 100 USA Plays"
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "WW PLAYS",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages": [
+                                    {
+                                        "jumlah": 100,
+                                        "harga": "1.500"
+                                    },
+                                    {
+                                        "jumlah": 1000,
+                                        "harga": "15.000"
+                                    }
+                                ],
+                                "note": "Berlaku kelipatan Rp.1.500 per 100 WW Plays"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "platform": "SEWA ZOOM",
+                "imageUrl" : "Foto Jualan/suntik_boost socmeds/zoom.png",
+                "services": [
+                    {
+                        "service_name": "100 PARTISIPAN",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" : [
+
+                                    {
+                                        "jumlah": "30 Menit",
+                                        "harga": "2.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Jam",
+                                        "harga": "4.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Hari",
+                                        "harga": "15.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Minggu",
+                                        "harga": "45.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "300 PARTISIPAN",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" : [
+                                    {
+                                        "jumlah": "30 Menit",
+                                        "harga": "5.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Jam",
+                                        "harga": "8.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Hari",
+                                        "harga": "27.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Minggu",
+                                        "harga": "90.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "service_name": "500 PARTISIPAN",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" : [
+                                    {
+                                        "jumlah": "30 Menit",
+                                        "harga": "10.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Jam",
+                                        "harga": "20.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Hari",
+                                        "harga": "60.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Minggu",
+                                        "harga": "235.000"
+                                    }
+                                ]
+                            }   
+                        ]
+                    },
+                    {
+                        "service_name": "1000 PARTISIPAN",
+                        "options": [
+                            {
+                                "type" :"NO GARANSI",
+                                "packages" : [
+                                    {
+                                        "jumlah": "1 Jam",
+                                        "harga": "35.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Hari",
+                                        "harga": "115.000"
+                                    },
+                                    {
+                                        "jumlah": "1 Minggu",
+                                        "harga": "345.000"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+    
+]
