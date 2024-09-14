@@ -5,7 +5,7 @@
         [
             {
                 "id" : 1,
-                "imageUrl" : "../Foto Jualan/foto game/icon.png",
+                "imageUrl" : "Foto Jualan/foto game/icon.png",
                 "product" : 
                     {
                         "name" : "PUBG MOBILE ALL REGION",
@@ -27,7 +27,7 @@
             },
             {
                 "id": 2,
-                "imageUrl": "../Foto Jualan/foto game/images.jpeg",
+                "imageUrl": "Foto Jualan/foto game/images.jpeg",
                 "product":
                     {
                         "name": "PUBG NEW STATE",
@@ -43,7 +43,7 @@
             },
             {
                 "id": 3,
-                "imageUrl": "../Foto Jualan/foto game/icon.png",
+                "imageUrl": "Foto Jualan/foto game/icon.png",
                 "product":
                     {
                         "name": "PUBG MOBILE INDONESIA",
@@ -67,7 +67,7 @@
             },
             {
                 "id": 4,
-                "imageUrl": "../Foto Jualan/foto game/channels4_profile.jpg",
+                "imageUrl": "Foto Jualan/foto game/channels4_profile.jpg",
                 "product":
                     {
                         "name": "MOBILE LEGENDS",
@@ -97,7 +97,7 @@
             },
             {
                 "id": 5,
-                "imageUrl": "../Foto Jualan/foto game/025525600_1590729106-Banner-1.jpg",
+                "imageUrl": "Foto Jualan/foto game/025525600_1590729106-Banner-1.jpg",
                 "product":
                     {
                         "name": "CALL OF DUTY MOBILE",
@@ -123,7 +123,7 @@
             },
             {
                 "id": 6,
-                "imageUrl": "../Foto Jualan/foto game/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc.jpeg",
+                "imageUrl": "Foto Jualan/foto game/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc.jpeg",
                 "product":
                     {
                         "name": "GENSHIN IMPACT",
@@ -140,7 +140,7 @@
             },
             {
                 "id": 7,
-                "imageUrl": "../Foto Jualan/foto game/valorant-logo-FAB2CA0E55-seeklogo.com.png",
+                "imageUrl": "Foto Jualan/foto game/valorant-logo-FAB2CA0E55-seeklogo.com.png",
                 "product": 
                     {
                         "name": "VALORANT",
@@ -158,7 +158,7 @@
             },
             {
                 "id": 8,
-                "imageUrl": "../Foto Jualan/foto game/vecteezy_roblox-logo-png-roblox-icon-transparent-png_27127470.png",
+                "imageUrl": "Foto Jualan/foto game/vecteezy_roblox-logo-png-roblox-icon-transparent-png_27127470.png",
                 "product": 
                     {
                         "name": "ROBLOX",
@@ -177,7 +177,7 @@
             },
             {
                 "id": 9,
-                "imageUrl": "../Foto Jualan/foto game/images (1).jpeg",
+                "imageUrl": "Foto Jualan/foto game/images (1).jpeg",
                 "product": 
                     {
                         "name": "GARENA UNDAWN",
@@ -203,7 +203,7 @@
             },
             {
                 "id": 10,
-                "imageUrl": "../Foto Jualan/foto game/Honkai_Star_Rail_logo.png",
+                "imageUrl": "Foto Jualan/foto game/Honkai_Star_Rail_logo.png",
                 "product": 
                     {
                         "name": "HONKAI STAR RAIL",
@@ -223,7 +223,7 @@
             },
             {
                 "id": 11,
-                "imageUrl": "../Foto Jualan/foto game/034422500_1501647190-new_logo_AOV__1_.jpg",
+                "imageUrl": "Foto Jualan/foto game/034422500_1501647190-new_logo_AOV__1_.jpg",
                 "product": 
                     {
                         "name": "ARENA OF VALOR",
@@ -242,7 +242,7 @@
             },
             {
                 "id": 12,
-                "imageUrl": "../Foto Jualan/foto game/51762ac2a2a1014f9be6f5bcfac029ad.png",
+                "imageUrl": "Foto Jualan/foto game/51762ac2a2a1014f9be6f5bcfac029ad.png",
                 "product": 
                     {
                         "name": "AU2 MOBILE",
@@ -261,7 +261,7 @@
             },
             {
                 "id": 13,
-                "imageUrl": "../Foto Jualan/foto game/BLOOD STRIKE.jpg",
+                "imageUrl": "Foto Jualan/foto game/BLOOD STRIKE.jpg",
                 "product": 
                     {
                         "name": "BLOOD STRIKE",
@@ -280,7 +280,7 @@
             },
             {
                 "id": 14,
-                "imageUrl": "../Foto Jualan/foto game/HAY DAY.png",
+                "imageUrl": "Foto Jualan/foto game/HAY DAY.png",
                 "product": 
                     {
                         "name": "HAYDAY",
@@ -298,7 +298,7 @@
             },
             {
                 "id": 15,
-                "imageUrl": "../Foto Jualan/foto game/Pointblanklogo.jpg",
+                "imageUrl": "Foto Jualan/foto game/Pointblanklogo.jpg",
                 "product": 
                     {
                         "name": "POINT BLANK",
@@ -316,7 +316,7 @@
             },
             {
                 "id": 16,
-                "imageUrl": "../Foto Jualan/foto game/love nikki.png",
+                "imageUrl": "Foto Jualan/foto game/love nikki.png",
                 "product": 
                     {
                         "name": "LOVE NIKKI",
@@ -335,7 +335,7 @@
             },
             {
                 "id": 17,
-                "imageUrl": "../Foto Jualan/foto game/lifeafter.jpg",
+                "imageUrl": "Foto Jualan/foto game/lifeafter.jpg",
                 "product": 
                     {
                         "name": "LIFEAFTER",
@@ -352,7 +352,7 @@
             },
             {
                 "id": 18,
-                "imageUrl": "../Foto Jualan/foto game/sausage man.png",
+                "imageUrl": "Foto Jualan/foto game/sausage man.png",
                 "product": 
                     {
                         "name": "SAUSAGE MAN",
@@ -371,7 +371,7 @@
             },
             {
                 "id": 19,
-                "imageUrl": "../Foto Jualan/foto game/clash of clans.jpeg",
+                "imageUrl": "Foto Jualan/foto game/clash of clans.jpeg",
                 "product": 
                     {
                         "name": "CLASH OF CLANS",
@@ -394,7 +394,7 @@
         "listProduk": [
             {
                 "platform": "TIKTOK",
-                "imageUrl": "../Foto Jualan/suntik_boost socmeds/ilustrasi-tiktok_43.jpeg",
+                "imageUrl": "Foto Jualan/suntik_boost socmeds/ilustrasi-tiktok_43.jpeg",
                 "services": [
                   {
                     "service_name": "FOLLOWERS RANDOM",
